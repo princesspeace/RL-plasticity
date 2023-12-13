@@ -1,0 +1,15 @@
+numpy
+tqdm
+matplotlib
+# torchvision
+# pyyaml
+# scipy
+# pyhessian
+
+ipykernel   
+gymnasium
+stable-baselines3[extra]
+
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
